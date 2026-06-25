@@ -31,6 +31,8 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,js" />
 </p>
 
+---
+
 ### 🎨 Frontend Development
 
 <p>
@@ -38,6 +40,8 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 </p>
 
 **Technologies:** HTML5, CSS3, Bootstrap, JavaScript, React.js
+
+---
 
 ### ⚙️ Backend Development
 
@@ -47,6 +51,8 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 
 **Technologies:** ASP.NET Core MVC, RESTful APIs, Entity Framework Core
 
+---
+
 ### 🗄️ Database
 
 <p>
@@ -55,13 +61,8 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 
 **Technologies:** MongoDB, Microsoft SQL Server
 
-### 🧰 Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,jupyter" />
-</p>
-
-**Tools:** Git, GitHub, VS Code, Visual Studio, Jupyter Notebook
 ### 📊 Data Science Tools
 
 <p>
@@ -70,7 +71,19 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 
 **Technologies:** Python, NumPy, Pandas
 
-### 🤖 Machine Learning
+---
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,jupyter" />
+</p>
+
+**Technologies:** Git, GitHub, VS Code, Visual Studio, Jupyter Notebook
+
+---
+
+## 🤖 Machine Learning
 
 * Supervised Learning
 * Unsupervised Learning
@@ -87,7 +100,7 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 ## 🎯 Core Focus Areas
 
 #### 🌐 Full-Stack Development
-Frontend Development → Backend Development → Database Management → Authentication & Authorization → Deployment 
+Frontend Development → Backend Development → Database Management → Authentication & Authorization → Deployment  
 
 #### 🔗 RESTful API Development
 API Design → CRUD Operations → Entity Framework Core → Database Integration → API Testing → Deployment  
