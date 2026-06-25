@@ -50,10 +50,11 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
-**Technologies:** MySQL, SQL Server
+**Technologies:** MongoDB, Microsoft SQL Server
 
 ### 📊 Data Science Tools
 
