@@ -18,7 +18,7 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 * 💡 Passionate about Software Development, Problem Solving, and building real-world applications
 * 🌐 Interested in Full-Stack Development and Backend Technologies
 * 🤖 Exploring Machine Learning and AI Applications
-* 🚀 Love turning ideas into real-world projects
+* 🚀 Focused on building real-world, scalable web applications
 * 📚 Constantly learning, building, and improving
 
 ---
@@ -51,11 +51,17 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
 **Technologies:** MongoDB, Microsoft SQL Server
 
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,jupyter" />
+</p>
+
+**Tools:** Git, GitHub, VS Code, Visual Studio, Jupyter Notebook
 ### 📊 Data Science Tools
 
 <p>
@@ -81,7 +87,7 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 ## 🎯 Core Focus Areas
 
 #### 🌐 Full-Stack Development
-Frontend Development → Backend Development → Database Design → Authentication & Authorization → Deployment  
+Frontend Development → Backend Development → Database Management → Authentication & Authorization → Deployment 
 
 #### 🔗 RESTful API Development
 API Design → CRUD Operations → Entity Framework Core → Database Integration → API Testing → Deployment  
