@@ -28,7 +28,7 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,js" />
+<img src="https://skillicons.dev/icons?i=c,java,cs,js" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ Building web applications, APIs, and intelligent solutions that solve real-world
 <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-**Technologies:** ASP.NET Core MVC, RESTful APIs, Entity Framework Core
+**Technologies:** ASP.NET Core MVC, RESTful APIs
 
 ---
 
